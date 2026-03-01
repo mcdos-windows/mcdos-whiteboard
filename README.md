@@ -1,2 +1,20 @@
-# mcdos-whiteboard
-轻量的白板
+#mcdos的白板
+一款基于Pygame开发的全屏黑板风格涂鸦工具，支持多色画笔、粗细调整、（橡皮擦除、撤销、长按清屏暂未实现）等功能，界面简洁，操作直观。
+
+![黑板涂鸦工具预览](https://img.shields.io/badge/状态-稳定可用-brightgreen)
+![Python版本](https://img.shields.io/badge/Python-3.6%2B-blue)
+![依赖](https://img.shields.io/badge/依赖-Pygame-red)
+
+## 核心功能
+- 全屏深绿黑板背景，线条永久保留不消失
+-  多色画笔：白/红/黄/蓝/粉5种颜色可选
+-  画笔粗细可调（2-15），橡皮大小可调（10-50）
+-  极简操作：鼠标绘制，按钮/快捷键控制，无多余弹窗
+
+## 快速使用
+### 方式1：直接运行Python源码
+1. 安装依赖
+   ```bash
+   pip install pygame
+### 方式2：下载 release版本
+作者声明：目前处于内测，请勿任意下载！
