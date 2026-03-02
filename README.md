@@ -5,6 +5,7 @@
 ![Python版本](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![依赖](https://img.shields.io/badge/依赖-Pygame-red) 如果是release版本请忽视
 
+![钢铁侠](https://i-blog.csdnimg.cn/direct/c6cb0573ff92492ab8ed72ee1fb43ecb.jpeg =600x600)
 ## 核心功能
 - 全屏深绿黑板背景，线条永久保留不消失
 -  多色画笔：白/红/黄/蓝/粉5种颜色可选
